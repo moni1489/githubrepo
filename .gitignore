@@ -1,0 +1,21 @@
+# Переменные окружения и секреты
+.env
+.env.local
+
+# Байткод Python и кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+ENV/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
